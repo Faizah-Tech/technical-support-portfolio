@@ -1,6 +1,10 @@
 # technical-support-portfolio
 
- About Me
+
+About Me
+
+
+
 I am a Technical Support Engineer with expertise in troubleshooting, database management, and data integration. Skilled in tools like Control-M, Informatica, SSIS, and SQL, I specialize in optimizing workflows and ensuring data quality.
 
  Key Projects
