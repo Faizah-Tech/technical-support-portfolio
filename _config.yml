@@ -1,30 +1,33 @@
-title: Faizah Shaikh - Technical Support Portfolio
-description: A portfolio showcasing expertise in troubleshooting, database management, ETL testing, and data visualization.
-baseurl: "/technical-support-portfolio" # Repository name
-url: "https://faizah-tech.github.io" # Base URL
-author: Faizah Shaikh
-email: faizahmushtaaq@gmail.com
-github: https://github.com/Faizah-Tech/technical-support-portfolio
-linkedin: https://www.linkedin.com/in/faizah-shaikh-88a1ba146/
-
-# Theme settings
+title: "Technical Support Portfolio"
+description: "Portfolio of Faizah Shaikh, Technical Support Engineer specializing in ETL workflows, database management, and troubleshooting."
 theme: minima
+baseurl: "/technical-support-portfolio"
+url: "https://faizah-tech.github.io"
+author:
+  name: "Faizah Shaikh"
+  email: "faizahmushtaaq@gmail.com"
+  linkedin: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
+  github: "https://github.com/Faizah-Tech"
 
-# Navigation
-nav_links:
-  - name: Home
-    url: "/"
-  - name: Projects
-    url: "/projects/"
-  - name: Contact
-    url: "/#contact"
+# Navigation Links
+collections:
+  navbar:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about"
+    - title: "Projects"
+      url: "/projects"
+    - title: "Contact"
+      url: "/contact"
 
-# Social links
+# Social Links
 social_links:
-  github: https://github.com/Faizah-Tech
-  linkedin: https://www.linkedin.com/in/faizah-shaikh-88a1ba146/
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
+  - name: GitHub
+    url: "https://github.com/Faizah-Tech"
 
-# Plugins
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
