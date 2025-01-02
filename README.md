@@ -1,13 +1,14 @@
-# Faizah Shaikh - Technical Support Portfolio
+# Faizah Shaikh - Technical Support Portfolio  
+This repository hosts my GitHub Pages portfolio, showcasing my experience as a Technical Support Engineer.  
 
-This repository hosts my portfolio website, showcasing my experience as a Technical Support Engineer. Explore my projects, tools, and expertise in troubleshooting, ETL testing, and data visualization.
+## Features  
+- Interactive portfolio built with GitHub Pages and Jekyll.  
+- Highlights key projects, skills, and contact information.  
 
-## Links
-- **GitHub Portfolio**: [Faizah-Tech/technical-support-portfolio](https://github.com/Faizah-Tech/technical-support-portfolio)
-- **Live Site**: [https://faizah-tech.github.io/technical-support-portfolio/](https://faizah-tech.github.io/technical-support-portfolio/)
-- **LinkedIn**: [Faizah Shaikh](https://www.linkedin.com/in/faizah-shaikh-88a1ba146/)
+## View the Portfolio  
+[https://faizah-tech.github.io/technical-support-portfolio](https://faizah-tech.github.io/technical-support-portfolio)  
 
-## Features
-- Portfolio hosted with GitHub Pages
-- Projects showcasing ETL testing, workflow automation, and data visualization
-- Skills and contact information for recruiters
+## Contact  
+- **Email**: [faizahmushtaaq@gmail.com](mailto:faizahmushtaaq@gmail.com)  
+- **GitHub**: [github.com/Faizah-Tech](https://github.com/Faizah-Tech)  
+- **LinkedIn**: [linkedin.com/in/faizah-shaikh-88a1ba146](https://www.linkedin.com/in/faizah-shaikh-88a1ba146/)  
