@@ -1,21 +1,22 @@
 ---
 layout: default
-title: Sales Data Integration Workflow
+title: Projects
 ---
 
-# Sales Data Integration Workflow
+# Projects
 
-### Overview
-Developed and tested an ETL pipeline for integrating sales data from multiple sources into a centralized data warehouse.
+### 1. **ETL Workflow for Sales Data Integration**
+- **Tools**: SSIS, SQL Server
+- Designed and supported an ETL pipeline to integrate sales data from multiple sources into a centralized data warehouse.
+- Automated incremental data loads and performed source-to-target validation.
 
-### Tools Used
-- **SSIS**: Data extraction, transformation, and loading
-- **SQL Server**: Target database
-- **Power BI**: Data visualization
+### 2. **Retail Product Data Migration**
+- **Tools**: Informatica, Cloudera Hive
+- Migrated and validated product data from a legacy system to a modern data warehouse.
+- Performed data cleansing, profiling, and transformation.
 
-### Key Contributions
-- Designed and deployed SSIS packages for data transformations
-- Automated incremental data loads and validated data accuracy
-- Created Power BI dashboards to track sales trends
+### 3. **Marketing Campaign Analytics**
+- **Tools**: SSIS, MicroStrategy
+- Supported ETL pipelines for analyzing campaign performance and created dashboards to visualize key metrics like ROI and CTR.
 
-[Back to Projects](./)
+For more details, visit my [GitHub repository](https://github.com/Faizah-Tech/technical-support-portfolio).
