@@ -1,0 +1,16 @@
+title: "Faizah Shaikh - Technical Support Portfolio"
+description: "A portfolio showcasing my expertise in technical support, troubleshooting, ETL workflows, database management, and data integration."
+theme: minima
+url: https://faizah-tech.github.io/technical-support-portfolio
+author:
+  name: "Faizah Shaikh"
+  email: "faizahmushtaaq@gmail.com"
+  linkedin: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
+  github: "https://github.com/Faizah-Tech"
+social_links:
+  - platform: GitHub
+    url: "https://github.com/Faizah-Tech"
+  - platform: LinkedIn
+    url: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
+  - platform: Email
+    url: "mailto:faizahmushtaaq@gmail.com"
