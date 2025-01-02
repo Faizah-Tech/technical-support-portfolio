@@ -9,25 +9,6 @@ author:
   linkedin: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
   github: "https://github.com/Faizah-Tech"
 
-# Navigation Links
-collections:
-  navbar:
-    - title: "Home"
-      url: "/"
-    - title: "About"
-      url: "/about"
-    - title: "Projects"
-      url: "/projects"
-    - title: "Contact"
-      url: "/contact"
-
-# Social Links
-social_links:
-  - name: LinkedIn
-    url: "https://www.linkedin.com/in/faizah-shaikh-88a1ba146/"
-  - name: GitHub
-    url: "https://github.com/Faizah-Tech"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
